@@ -1,7 +1,7 @@
 # 🏆 ft_transcendence: Real-time Online Pong Game Platform
 
 ![Language: TypeScript](https://img.shields.io/badge/Language-TypeScript-blue.svg)
-![Frontend: React.js](https://img.shields.io/badge/Frontend-React.js-blue.svg) ; Correction ici
+![Frontend: React.js](https://img.shields.io/badge/Frontend-React.js-blue.svg)
 ![Backend: NestJS](https://img.shields.io/badge/Backend-NestJS-red.svg)
 ![Database: PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue.svg)
 ![Orchestration: Docker_Compose](https://img.shields.io/badge/Orchestration-Docker_Compose-green.svg)
