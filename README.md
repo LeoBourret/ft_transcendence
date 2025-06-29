@@ -128,3 +128,11 @@ This project provided invaluable experience in:
 *   **Game Development:** Designing game logic, matchmaking systems, and responsive user interfaces.
 *   **Collaborative Development:** Effectively working in a team on a large and complex codebase, managing version control and code integration.
 *   **Single-Page Application (SPA) Development:** Understanding SPA principles and browser history management.
+
+
+Made by:
+[https://github.com/NeronTheTyrant](Martin Lebard)
+[https://github.com/mchibane](Mehdi Chibane)
+[https://github.com/TsakBoolhak](Aurélien Cabiac)
+[https://github.com/LeoBourret](Léo Bourret)
+
