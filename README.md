@@ -131,8 +131,8 @@ This project provided invaluable experience in:
 
 
 Made by:
-[https://github.com/NeronTheTyrant](Martin Lebard)
-[https://github.com/mchibane](Mehdi Chibane)
-[https://github.com/TsakBoolhak](Aurélien Cabiac)
-[https://github.com/LeoBourret](Léo Bourret)
+[Martin Lebard](https://github.com/NeronTheTyrant)
+[Mehdi Chibane](https://github.com/mchibane)
+[Aurélien Cabiac](https://github.com/TsakBoolhak)
+[Léo Bourret](https://github.com/LeoBourret)
 
